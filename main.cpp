@@ -66,7 +66,7 @@ int ProbabilityDistribution::probability() {
 
   r = c*pow(p, x)*pow(q, n-x);
 
-  cout<<"la probabilidad es de: "<<r<<endl;
+  cout<<"La probabilidad es de: "<<r<<endl;
 };
 
 main(int argc, char const *argv[]) {
